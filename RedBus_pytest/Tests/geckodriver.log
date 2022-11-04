@@ -1,0 +1,207 @@
+1666852252837	geckodriver	INFO	Listening on 127.0.0.1:57625
+1666852255872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileg2OIar"
+1666852256804	Marionette	INFO	Marionette enabled
+1666852256812	Marionette	INFO	Listening on port 57677
+Read port: 57677
+1666852257484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileg2OIar\\search.json.mozlz4", (void 0)))
+1666852260618	Marionette	INFO	Stopped listening on port 57677
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 420))
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1666852925710	geckodriver	INFO	Listening on 127.0.0.1:58498
+1666852928795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilecZNjPa"
+1666852929527	Marionette	INFO	Marionette enabled
+1666852929534	Marionette	INFO	Listening on port 58512
+Read port: 58512
+1666852929926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilecZNjPa\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 46: Error: Missing required parameters: sitekey
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+1666852967917	Marionette	INFO	Stopped listening on port 58512
+[Parent 3724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666853058802	geckodriver	INFO	Listening on 127.0.0.1:58988
+1666853061848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilerThpms"
+1666853062416	Marionette	INFO	Marionette enabled
+1666853062422	Marionette	INFO	Listening on port 59001
+Read port: 59001
+1666853062839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilerThpms\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 46: Error: Missing required parameters: sitekey
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+1666853094615	Marionette	INFO	Stopped listening on port 59001
+[Parent 6636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666853354945	geckodriver	INFO	Listening on 127.0.0.1:59542
+1666853358011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileGm9kb9"
+1666853358736	Marionette	INFO	Marionette enabled
+1666853358742	Marionette	INFO	Listening on port 59556
+Read port: 59556
+1666853359090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileGm9kb9\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 46: Error: Missing required parameters: sitekey
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+1666853410411	Marionette	INFO	Stopped listening on port 59556
+[Parent 19936, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666853566863	geckodriver	INFO	Listening on 127.0.0.1:60138
+1666853569939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilejPbG3e"
+1666853570590	Marionette	INFO	Marionette enabled
+1666853570596	Marionette	INFO	Listening on port 60152
+Read port: 60152
+1666853571020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilejPbG3e\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 46: Error: Missing required parameters: sitekey
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: Ce.onward.generalMetaData is undefined
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+1666853610029	Marionette	INFO	Stopped listening on port 60152
+[Parent 12764, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666853745809	geckodriver	INFO	Listening on 127.0.0.1:60749
+1666853748898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofile6reIWp"
+1666853749584	Marionette	INFO	Marionette enabled
+1666853749590	Marionette	INFO	Listening on port 60764
+Read port: 60764
+1666853749926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofile6reIWp\\search.json.mozlz4", (void 0)))
+1666853753392	Marionette	INFO	Stopped listening on port 60764
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+1666853924080	geckodriver	INFO	Listening on 127.0.0.1:61077
+1666853927115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilerkW2P3"
+1666853927704	Marionette	INFO	Marionette enabled
+1666853927710	Marionette	INFO	Listening on port 61090
+Read port: 61090
+1666853928056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilerkW2P3\\search.json.mozlz4", (void 0)))
+1666853930650	Marionette	INFO	Stopped listening on port 61090
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1666854080626	geckodriver	INFO	Listening on 127.0.0.1:61368
+1666854083689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileY7gXo3"
+1666854084342	Marionette	INFO	Marionette enabled
+1666854084349	Marionette	INFO	Listening on port 61382
+Read port: 61382
+1666854084845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileY7gXo3\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 46: Error: Missing required parameters: sitekey
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+1666854102835	Marionette	INFO	Stopped listening on port 61382
+[Parent 18452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666854263733	geckodriver	INFO	Listening on 127.0.0.1:61821
+1666854266817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofile3ekovk"
+1666854267466	Marionette	INFO	Marionette enabled
+1666854267473	Marionette	INFO	Listening on port 61834
+Read port: 61834
+1666854267992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofile3ekovk\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 46: Error: Missing required parameters: sitekey
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+1666854289582	Marionette	INFO	Stopped listening on port 61834
+1666854458374	geckodriver	INFO	Listening on 127.0.0.1:62399
+1666854461450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileZymbWF"
+1666854462186	Marionette	INFO	Marionette enabled
+1666854462192	Marionette	INFO	Listening on port 62413
+Read port: 62413
+1666854462530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileZymbWF\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1666854478722	Marionette	INFO	Stopped listening on port 62413
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 20696, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666854830703	geckodriver	INFO	Listening on 127.0.0.1:62856
+1666854833765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilebwXXuv"
+1666854834407	Marionette	INFO	Marionette enabled
+1666854834414	Marionette	INFO	Listening on port 62871
+Read port: 62871
+1666854834750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilebwXXuv\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 46: Error: Missing required parameters: sitekey
+1666854869862	Marionette	INFO	Stopped listening on port 62871
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 9684, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666862621795	geckodriver	INFO	Listening on 127.0.0.1:64492
+1666862870873	geckodriver	INFO	Listening on 127.0.0.1:64950
+1666862873962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilefi0IM4"
+1666862874471	Marionette	INFO	Marionette enabled
+1666862874476	Marionette	INFO	Listening on port 64964
+Read port: 64964
+1666862874785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofilefi0IM4\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 46: Error: Missing required parameters: sitekey
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://h.online-metrix.net/fp/check.js?org_id=k8vif92e&session_id=cybs_etb_mmt93a1ad0e-594b-49a9-b150-4d9784ec5c78638024597279773913, line 612: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666862940695	Marionette	INFO	Stopped listening on port 64964
+1667034941422	geckodriver	INFO	Listening on 127.0.0.1:57596
+1667034944532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileEFfkdW"
+1667034945257	Marionette	INFO	Marionette enabled
+1667034945265	Marionette	INFO	Listening on port 57608
+Read port: 57608
+1667034945769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileEFfkdW\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1667034950877	Marionette	INFO	Stopped listening on port 57608
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 17164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667036595812	geckodriver	INFO	Listening on 127.0.0.1:60117
+1667036598830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileznF3V4"
+1667036599226	Marionette	INFO	Marionette enabled
+1667036599231	Marionette	INFO	Listening on port 60129
+Read port: 60129
+1667036599472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileznF3V4\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667036602510	Marionette	INFO	Stopped listening on port 60129
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667110980053	geckodriver	INFO	Listening on 127.0.0.1:64175
+1667110983173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileoqjR0t"
+1667110983902	Marionette	INFO	Marionette enabled
+1667110983910	Marionette	INFO	Listening on port 64187
+Read port: 64187
+1667110984468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinil\\AppData\\Local\\Temp\\rust_mozprofileoqjR0t\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NJPGLzpIZgjszqyOymHUP0XR/recaptcha__en.js, line 46: Error: Missing required parameters: sitekey
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+JavaScript error: https://www.redbus.in/javascripts/search.749149f00c23223a44d5.bundle.js, line 1: TypeError: u(...) is null
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+observe@resource://gre/modules/AsyncShutdown.jsm:576:16
+
+1667111025768	Marionette	INFO	Stopped listening on port 64187
+[Parent 25276, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667111026394	geckodriver	INFO	Listening on 127.0.0.1:64437
