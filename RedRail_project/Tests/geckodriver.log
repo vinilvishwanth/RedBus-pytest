@@ -1,0 +1,154 @@
+1666890435852	geckodriver	INFO	Listening on 127.0.0.1:56180
+1666890439052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofile8LmEWt"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666890443768	Marionette	INFO	Marionette enabled
+1666890443785	Marionette	INFO	Listening on port 56190
+Read port: 56190
+WebDriver BiDi listening on ws://127.0.0.1:56181
+Read port: 56190
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666890445823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofile8LmEWt\\search.json.mozlz4", (void 0)))
+1666890460692	Marionette	INFO	Stopped listening on port 56190
+1666890460701	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666890461914	geckodriver	INFO	Listening on 127.0.0.1:56200
+1666890464672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofilenrf2fh"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666890465502	Marionette	INFO	Marionette enabled
+1666890465506	Marionette	INFO	Listening on port 56210
+Read port: 56210
+WebDriver BiDi listening on ws://127.0.0.1:56201
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666890466775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+1666937707217	geckodriver	INFO	Listening on 127.0.0.1:59952
+1666937712586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofileRJPUwR"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666937722066	Marionette	INFO	Marionette enabled
+1666937722138	Marionette	INFO	Listening on port 59973
+Read port: 59973
+Read port: 59973
+WebDriver BiDi listening on ws://127.0.0.1:59953
+Read port: 59973
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666937725529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofileRJPUwR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59953/devtools/browser/9aada828-647d-4637-ac77-cd317da07d4c
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.redbus.in."
+1666937805567	Marionette	INFO	Stopped listening on port 59973
+[Parent 14552, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666937807587	geckodriver	INFO	Listening on 127.0.0.1:60230
+1666937810579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofiledWQLoZ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666937811106	Marionette	INFO	Marionette enabled
+1666937811111	Marionette	INFO	Listening on port 60242
+Read port: 60242
+WebDriver BiDi listening on ws://127.0.0.1:60231
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666937811989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofiledWQLoZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60231/devtools/browser/2ea3c8cd-2703-4654-9e50-bb62bb2252f0
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.redbus.in."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666937865816	Marionette	INFO	Stopped listening on port 60242
+!!! error running onStopped callback: TypeError: callback is not a function
+1666937869064	geckodriver	INFO	Listening on 127.0.0.1:60495
+1666937872075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofileXMcqip"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666937872887	Marionette	INFO	Marionette enabled
+1666937872893	Marionette	INFO	Listening on port 60507
+Read port: 60507
+WebDriver BiDi listening on ws://127.0.0.1:60496
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666937873762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofileXMcqip\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60496/devtools/browser/0a253695-a4ea-4402-b6e9-98281d9c4724
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn-jp.gsecondscreen.com/static/ta.min.js, line 1: TypeError: p.onevent is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.redbus.in."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1666937924296	Marionette	INFO	Stopped listening on port 60507
+[Parent 21856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1666937933359	geckodriver	INFO	Listening on 127.0.0.1:60759
+1666937938916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofileOQYfJK"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666937942740	Marionette	INFO	Marionette enabled
+1666937942803	Marionette	INFO	Listening on port 60775
+WebDriver BiDi listening on ws://127.0.0.1:60760
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 60775
+Read port: 60775
+Read port: 60775
+1666937947577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofileOQYfJK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60760/devtools/browser/1cee7a22-a89e-408b-9347-9c1cdc3938b5
+1666957499378	geckodriver	INFO	Listening on 127.0.0.1:62843
+1666957502138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofilegzUhAr"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1666957506915	Marionette	INFO	Marionette enabled
+1666957506933	Marionette	INFO	Listening on port 62853
+Read port: 62853
+WebDriver BiDi listening on ws://127.0.0.1:62844
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 62853
+1666957508699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofilegzUhAr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62844/devtools/browser/91f998bf-e977-4b5f-aa96-1e5fdfd6dc7f
+1666957533898	Marionette	INFO	Stopped listening on port 62853
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666957535543	geckodriver	INFO	Listening on 127.0.0.1:62901
+1667036335349	geckodriver	INFO	Listening on 127.0.0.1:56639
+1667036339703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56640" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofileehHIx6"
+1667046269672	geckodriver	INFO	Listening on 127.0.0.1:59189
+1667046273026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59190" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofile3oW3jz"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1667046278321	Marionette	INFO	Marionette enabled
+1667046278381	Marionette	INFO	Listening on port 59205
+Read port: 59205
+WebDriver BiDi listening on ws://127.0.0.1:59190
+Read port: 59205
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1667046283584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sriha\\AppData\\Local\\Temp\\rust_mozprofile3oW3jz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59190/devtools/browser/8731876a-919e-4d29-87bb-7f067196cec1
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.redbus.in/javascripts/layout.f50cdef8eba724a0dba8.bundle.js?root=rbus, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.redbus.in."
+1667046338076	Marionette	INFO	Stopped listening on port 59205
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:337:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
